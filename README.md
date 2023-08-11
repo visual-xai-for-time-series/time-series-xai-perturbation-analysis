@@ -1,6 +1,7 @@
 # A Deep Dive into Perturbations as Evaluation Technique for Time Series XAI
 
-Code and result repository for "A Deep Dive into Perturbations as Evaluation Technique for Time Series XAI".
+Code and result repository for "A Deep Dive into Perturbations as Evaluation Technique for Time Series XAI".  
+The full paper can be found as a preprint under: ![https://arxiv.org/abs/2307.05104](https://arxiv.org/abs/2307.05104)  
 
 ## Perturbation Analysis Card
 
